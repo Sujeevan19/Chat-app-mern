@@ -1,0 +1,17 @@
+.sidebar {
+  width: 250px;
+  padding: 1rem;
+  border-right: 1px solid #ccc;
+}
+
+.chat-item {
+  padding: 0.75rem;
+  margin-bottom: 0.5rem;
+  background: #f0f0f0;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+.chat-item:hover {
+  background: #e0e0e0;
+}
